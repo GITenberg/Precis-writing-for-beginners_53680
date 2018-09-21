@@ -1,0 +1,24 @@
+_repo: Precis-writing-for-beginners_53680
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pocock, Guy Noel
+    birthdate: 1880
+    deathdate: 1955
+    gutenberg_agent_id: '47488'
+    url: http://www.gutenberg.org/2009/agents/47488
+description: ''
+gutenberg_issued: '2016-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abstracting'
+- !lcc 'PE'
+- GITenberg
+title: Précis writing for beginners
+url: http://www.gutenberg.org/ebooks/53680
